@@ -1,0 +1,20 @@
+NET "clkin" LOC = "B8";
+
+NET "up_down" LOC = "P11";
+NET "pause" LOC = "L3";
+NET "rst" LOC = "K3";
+
+NET "LED_clk" LOC = "M5";
+
+NET "Display_EN(0)" LOC = "F12";
+NET "Display_EN(1)" LOC = "J12";
+NET "Display_EN(2)" LOC = "M13";
+NET "Display_EN(3)" LOC = "K14";
+
+NET "sevseg(6)" LOC = "L14";
+NET "sevseg(5)" LOC = "H12";
+NET "sevseg(4)" LOC = "N14";
+NET "sevseg(3)" LOC = "N11";
+NET "sevseg(2)" LOC = "P12";
+NET "sevseg(1)" LOC = "L13";
+NET "sevseg(0)" LOC = "M12";
